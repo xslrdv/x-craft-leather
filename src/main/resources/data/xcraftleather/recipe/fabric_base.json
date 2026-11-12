@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:paper",
+    "xcraftleather:bast"
+  ],
+  "result": {
+    "id": "xcraftleather:fabric_base",
+    "count": 1
+  }
+}

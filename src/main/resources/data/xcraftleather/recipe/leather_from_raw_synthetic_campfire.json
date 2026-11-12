@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "ingredient": "xcraftleather:raw_synthetic_leather",
+  "result": {
+    "id": "minecraft:leather"
+  },
+  "experience": 0.3,
+  "cookingtime": 600
+}

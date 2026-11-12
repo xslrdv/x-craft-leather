@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "xcraftleather:raw_synthetic_leather",
+  "result": {
+    "id": "minecraft:leather"
+  },
+  "experience": 0.3,
+  "cookingtime": 200
+}

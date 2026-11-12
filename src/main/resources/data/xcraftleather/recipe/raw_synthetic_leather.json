@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "xcraftleather:fabric_base",
+    "xcraftleather:seed_oil_bottle"
+  ],
+  "result": {
+    "id": "xcraftleather:raw_synthetic_leather",
+    "count": 1
+  }
+}
