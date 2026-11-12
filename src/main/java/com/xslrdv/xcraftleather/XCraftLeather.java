@@ -1,5 +1,5 @@
 /*
- * X Craft Leather - A vanilla-friendly, balanced full crafting cycle for raw synthetic leather that smelts into vanilla leather - no animal farming required.
+ * X Craft Leather - A vanilla-friendly, balanced full crafting cycle for raw synthetic leather that smelts into vanilla leather. No need to kill animals.
  * Copyright (C) 2026 xslrdv
  *
  * This program is free software: you can redistribute it and/or modify
