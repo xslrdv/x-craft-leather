@@ -1,6 +1,6 @@
 # 🧵 X Craft Leather
 
-A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and balanced full crafting cycle for **Raw Synthetic Leather**. Harvest **Bast** from *Log*, weave a **Fabric Base**, treat it with **Seed Oil Bittle**, and smelt it into vanilla *leather* - all without *harming* a single *animal*.
+A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and balanced full crafting cycle for **Raw Synthetic Leather**. Harvest **Bast** from *Log*, weave a **Fabric Base**, treat it with **Seed Oil Bottle**, and smelt it into vanilla *leather* - all without *harming* a single *animal*.
 
 ---
 
