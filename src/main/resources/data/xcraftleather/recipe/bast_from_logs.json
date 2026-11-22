@@ -1,0 +1,12 @@
+{
+  "type": "xcraftleather:tool_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:axes",
+    "#minecraft:logs"
+  ],
+  "result": {
+    "id": "xcraftleather:bast",
+    "count": 1
+  }
+}

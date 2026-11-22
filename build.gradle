@@ -9,6 +9,10 @@ tasks.named('wrapper', Wrapper).configure {
     distributionType = Wrapper.DistributionType.BIN
 }
 
+tasks.named('jar', Jar).configure {
+    archiveFileName = "${mod_id}-${mod_version}-mc${minecraft_version}-neoforge.jar"
+}
+
 version = mod_version
 group = mod_group_id
 
@@ -22,7 +26,7 @@ repositories {
 }
 
 base {
-    archivesName = "${mod_id}-${minecraft_version}-neoforge"
+    archivesName = "${mod_id}-mc${minecraft_version}-neoforge"
 }
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(25)

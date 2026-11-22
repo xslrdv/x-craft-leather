@@ -1,15 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "pattern": [
-    "WWW",
-    "WGW",
-    "WWW"
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:wheat_seeds",
+    "minecraft:wheat_seeds",
+    "minecraft:wheat_seeds"
   ],
-  "key": {
-    "W": "minecraft:wheat_seeds",
-    "G": "minecraft:glass_bottle"
-  },
   "result": {
     "id": "xcraftleather:seed_oil_bottle",
     "count": 1

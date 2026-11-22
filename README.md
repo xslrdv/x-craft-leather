@@ -1,26 +1,26 @@
 # 🧵 X Craft Leather
 
-A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and balanced full crafting cycle for **Raw Synthetic Leather**. Harvest **Bast** from *Log*, weave a **Fabric Base**, treat it with **Seed Oil Bittle**, and smelt it into vanilla *leather* - all without *harming* a single *animal*.
+A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and balanced full crafting cycle for **Raw Synthetic Leather**. Harvest **Bast** from *Log*, weave a **Fabric Base**, treat it with **Seed Oil Bottle**, and smelt it into vanilla *leather* - all without *harming* a single *animal*. No need to kill animals.
 
 ---
 
 ## ✨ Features
 
 * **Wool to String**
-  * Combine *Wool* with *Shears* in a crafting grid to unravel it into *String* (x2).
+  * Combine *Wool* with *Shears* in a crafting grid to unravel it into *String* (x3).
 * **Bast Extraction**
   * Strip any *Log* using an *Axe* to harvest **Bast** fibers.
 * **Fabric Base**
   * Craft a *Fabric Base* by combining *String*, **Bast**, and *Paper*.
 * **Seed Oil Bottle**
   * Fill a *Glass Bottle* with plant oils using one of three balanced recipes:
-    * **8** *Wheat Seeds* + *Glass Bottle*
-    * **4** *Pumpkin Seeds* + *Glass Bottle*
-    * **4** *Sunflowers* + *Glass Bottle*
+    * **3** *Wheat Seeds* + *Glass Bottle*
+    * **3** *Pumpkin Seeds* + *Glass Bottle*
+    * **2** *Sunflowers* + *Glass Bottle*
 * **Raw Synthetic Leather**
-  * Treat a **Fabric Base** with a **Seed Oil Bottle** to craft **Raw Synthetic Leather**.
-* **Curing & Smelting** to **Vanilla Leather**
-  * Process **Raw Synthetic Leather** in a **Furnace**, **Blast Furnace**, **Smoker**, or over a **Campfire** to produce standard **Vanilla Leather**.
+  * Treat a **Fabric Base** with a **Seed Oil Bottle** to craft *Raw Synthetic Leather*.
+* **Curing & Smelting** to **vanilla Leather**
+  * Process **Raw Synthetic Leather** in a *Furnace*, *Blast Furnace*, *Smoker*, or over a *Campfire* to produce standard *vanilla Leather*.
 
 ---
 
@@ -50,6 +50,8 @@ A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and ba
 ## 🌐 Supported Languages
 
 * English (`en_us`)
+* German (`de_de`)
+* Polish (`pl_pl`)
 * Russian (`ru_ru`)
 * Ukrainian (`uk_ua`)
 

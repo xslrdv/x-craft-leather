@@ -1,15 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "pattern": [
-    " W ",
-    "WGW",
-    " W "
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:sunflower",
+    "minecraft:sunflower"
   ],
-  "key": {
-    "W": "minecraft:sunflower",
-    "G": "minecraft:glass_bottle"
-  },
   "result": {
     "id": "xcraftleather:seed_oil_bottle",
     "count": 1

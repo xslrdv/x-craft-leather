@@ -1,0 +1,12 @@
+{
+  "type": "xcraftleather:tool_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:tools/shear",
+    "#minecraft:wool"
+  ],
+  "result": {
+    "id": "minecraft:string",
+    "count": 3
+  }
+}
